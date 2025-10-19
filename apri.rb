@@ -73,7 +73,6 @@ def acchimuite_hoi(winner)
   end
 end
 
-
 next_game = true
 
 while next_game  
