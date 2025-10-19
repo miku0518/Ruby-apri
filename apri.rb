@@ -37,7 +37,7 @@ def janken
   end
 end
 
-def acchimuite_hoi(winner)
+def acchimuite_hoi(winner)    #あっちむてほい
   directions = ["上", "下", "左", "右"]
   puts "あっち向いて～"
   puts  "0(上) 1(下) 2(左) 3(右)"
