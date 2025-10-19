@@ -1,5 +1,3 @@
-require "csv" 
-
 def janken
   puts "じゃんけん..."
   puts "0(グー)1(チョキ)2(パー)3(戦わない)"
